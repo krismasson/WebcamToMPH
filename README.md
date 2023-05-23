@@ -16,6 +16,7 @@ set the distance of your street
 (basically the amount of street visible in your camera)
 
 
+Installation:
 set the capture area
 
 
