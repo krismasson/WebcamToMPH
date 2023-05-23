@@ -14,6 +14,8 @@ something like Speed = Distance / Time
 
 # Installation:
 
+- pip install cv2 numpy mss Pillow keyboard time
+
 - set the distance of your street
 
 (basically the amount of street visible in your camera)
