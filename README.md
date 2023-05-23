@@ -11,3 +11,9 @@ set the distance of your street
 
 
 set the capture area
+
+
+use getpng to generate a comparison image
+
+
+then once running you can hit f1 to set the comparison image
