@@ -25,8 +25,8 @@ objartime = time.time()
 object_present = False
 objentime = None
 OBJDISPLAY = False
-ContourThreshold = 16000
-CameraDistance = 39.575
+ContourThreshold = 16000  #threshold for object size
+CameraDistance = 39.575  #feet visible in camera
 
 cv2.namedWindow("Captured Video", cv2.WINDOW_NORMAL) #make window resizeable
 cv2.resizeWindow("Captured Video", 500, 500)  # Adjust the window size here
