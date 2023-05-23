@@ -56,6 +56,7 @@ while True:
         if (time_diff > 5):   # if its been 5 seconds we good.
             OBJDISPLAY = False
             print("Speed " + str(obj_diff) + " Mph" + "  Time difference: " + str(the_diff))
+             #print the speed/time difference into the console
     
     #F1 captures a new screenshot to compare the current frame with
     if keyboard.is_pressed('F1'):
